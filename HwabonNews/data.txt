@@ -1,0 +1,104 @@
+{
+  "bigPostData": [
+    {
+      "image": -1,
+      "image_ratio": 0,
+      "title": "HwabonNews Test",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla leo nisi, finibus quis justo eu, consequat auctor ex. In lacinia blandit ornare. Praesent eu sodales ipsum. Donec aliquam nibh risus, in feugiat lacus mattis eu. Aliquam gravida est non erat congue, in mollis lacus aliquet. Nullam ac tellus nec felis molestie posuere. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eget tristique risus.\n\nSed rutrum leo et metus laoreet commodo. Integer convallis eget sem id bibendum. Suspendisse condimentum fringilla ipsum, at mattis massa posuere id. Mauris ultrices arcu nec ex placerat accumsan. Curabitur ut dolor id mi commodo posuere et a tellus. Aenean tellus leo, fermentum eu pulvinar eget, egestas ut lacus. Cras non nulla eu tellus volutpat mollis. Cras tempus metus nibh, eget vehicula nunc consequat vitae.\n\nDuis ullamcorper interdum ligula in aliquet. Curabitur consectetur nunc tristique semper bibendum. Nulla facilisi. Aliquam eu urna eros. Etiam a lobortis leo. Nunc sodales ex at arcu finibus rutrum. Nullam facilisis scelerisque scelerisque. Ut vel tellus nec nibh suscipit suscipit vitae id diam. Integer a pharetra augue. Fusce at augue ac felis porttitor viverra.\n\nMauris id tempor dolor, sit amet bibendum libero. Integer fringilla elit erat, a faucibus nulla placerat a. Praesent ut urna condimentum, fermentum justo eget, viverra est. Mauris sed mi semper, accumsan turpis sed, vestibulum nibh. Nullam posuere magna purus, a tincidunt purus suscipit at. Praesent vehicula sagittis odio in iaculis. Nullam fermentum eu sapien tempus euismod. In pharetra odio diam, at aliquam tellus elementum bibendum. Curabitur at leo id erat facilisis tristique sit amet a orci. Curabitur molestie imperdiet enim, quis iaculis tortor dapibus varius. Mauris dignissim suscipit mi ut feugiat. Sed sem risus, tincidunt sed auctor quis, pulvinar sit amet augue. Aenean venenatis consectetur pulvinar. Suspendisse orci felis, rutrum sed faucibus sit amet, lobortis consectetur erat.\n\nAenean iaculis tortor a suscipit semper. Integer laoreet porta hendrerit. Ut pretium tempus rutrum. Nam dapibus justo ut erat ornare, ut semper ligula aliquet. Sed odio eros, auctor sit amet lectus efficitur, maximus ornare tortor. Quisque sed imperdiet mauris, in fermentum lacus. Donec at eros ex. Proin interdum vehicula augue, in luctus nibh tempor ut. Curabitur nulla sem, bibendum et condimentum eu, semper a metus. Curabitur cursus ultrices lectus in laoreet. In eu lacinia leo, quis feugiat ligula. Cras suscipit ligula et justo maximus, in lacinia arcu ornare. Nulla facilisi. Sed sed egestas dolor, porta pellentesque felis. Morbi non nisi risus. Vestibulum ultricies convallis elit.\n\nPhasellus sed nibh a ligula placerat volutpat. Mauris lobortis nibh sed velit lobortis malesuada. Sed aliquam varius ornare. Pellentesque posuere ornare quam, sit amet aliquam nisi dictum sed. Cras pulvinar metus a eros tristique, quis vulputate sapien ornare. Proin eleifend gravida tellus, id finibus justo tempor ac. Phasellus ac efficitur eros. Donec eget semper libero.\n\nAliquam et quam posuere, varius lacus sed, commodo velit. Aliquam in hendrerit metus. Aliquam finibus velit sit amet tristique consectetur. Quisque vel ultricies risus. Proin et arcu rhoncus, mollis ex a, bibendum turpis. Duis consequat sem quis lacus tincidunt, eu sagittis nisl iaculis. Donec vel porta velit. Proin a diam diam. Etiam ut elementum ligula, at rutrum mauris.\n\nSed ultricies viverra tortor, id tincidunt sapien tincidunt quis. Mauris nisl leo, egestas id diam vel, tempor aliquet dui. Nullam sed augue eu dolor accumsan porta nec non purus. Pellentesque consectetur dapibus purus eu varius. Donec consequat, quam ac scelerisque eleifend, lorem lacus scelerisque neque, in pellentesque metus leo sed elit. Donec scelerisque facilisis lacinia. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum non luctus leo, et accumsan metus. Nam lacinia nunc eget imperdiet scelerisque. Integer pharetra erat quis elit fermentum, a ultrices lorem faucibus. Morbi dictum tortor vitae sem venenatis bibendum. Cras faucibus efficitur dolor. Sed eget congue tortor, id lobortis ex. Sed a quam a velit elementum aliquam.\n\nCras rutrum lobortis venenatis. Fusce sed orci placerat, placerat libero at, blandit nisi. Etiam imperdiet luctus est. Morbi vel augue efficitur, pharetra metus eget, rhoncus lacus. Sed ex ipsum, pretium vitae tincidunt condimentum, mattis nec neque. In nisi velit, vulputate non elit sit amet, euismod iaculis turpis. Aenean vulputate neque eget elit lobortis, id euismod turpis ultrices. Duis cursus mattis erat vel tristique.\n\nFusce rutrum lorem lorem, ut rutrum massa viverra in. Donec pulvinar nibh vel bibendum lacinia. Etiam sed lectus faucibus, consequat purus quis, euismod urna. Suspendisse mattis commodo dolor, ac mattis diam semper ac. Sed sed leo egestas, cursus sem non, consectetur nunc. Donec finibus dui sit amet felis condimentum, non tincidunt magna molestie. Mauris mauris neque, commodo vitae aliquam id, semper eget leo. In hac habitasse platea dictumst. Cras dictum diam vel est hendrerit, eu gravida augue sollicitudin. Maecenas pretium, erat a elementum aliquam, enim mi condimentum neque, non mollis odio massa sed tortor. Vestibulum tempus pretium hendrerit. Ut dictum in ante eget aliquam. Aliquam arcu diam, iaculis vitae molestie vitae, condimentum vehicula massa. Sed in ullamcorper sem. Nullam quis porttitor sapien. In orci lectus, convallis nec felis vitae, mollis vehicula ligula."
+    },
+    {
+      "image": 0,
+      "image_ratio": 0.5615,
+      "title": "화본뉴스 한글 테스트",
+      "content": "한글 디코딩 테스트 ㄱㄴㄷㅏㅑㅓ, 日本語デコーディングテスト あいうえお"
+    },
+    {
+      "image": 1,
+      "image_ratio": 0.5615,
+      "title": "이미지 테스트 1",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla leo nisi, finibus quis justo eu, consequat auctor ex. In lacinia blandit ornare. Praesent eu sodales ipsum. Donec aliquam nibh risus, in feugiat lacus mattis eu. Aliquam gravida est non erat congue, in mollis lacus aliquet. Nullam ac tellus nec felis molestie posuere. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eget tristique risus.\n\nSed rutrum leo et metus laoreet commodo. Integer convallis eget sem id bibendum. Suspendisse condimentum fringilla ipsum, at mattis massa posuere id. Mauris ultrices arcu nec ex placerat accumsan. Curabitur ut dolor id mi commodo posuere et a tellus. Aenean tellus leo, fermentum eu pulvinar eget, egestas ut lacus. Cras non nulla eu tellus volutpat mollis. Cras tempus metus nibh, eget vehicula nunc consequat vitae.\n\nDuis ullamcorper interdum ligula in aliquet. Curabitur consectetur nunc tristique semper bibendum. Nulla facilisi. Aliquam eu urna eros. Etiam a lobortis leo. Nunc sodales ex at arcu finibus rutrum. Nullam facilisis scelerisque scelerisque. Ut vel tellus nec nibh suscipit suscipit vitae id diam. Integer a pharetra augue. Fusce at augue ac felis porttitor viverra.\n\nMauris id tempor dolor, sit amet bibendum libero. Integer fringilla elit erat, a faucibus nulla placerat a. Praesent ut urna condimentum, fermentum justo eget, viverra est. Mauris sed mi semper, accumsan turpis sed, vestibulum nibh. Nullam posuere magna purus, a tincidunt purus suscipit at. Praesent vehicula sagittis odio in iaculis. Nullam fermentum eu sapien tempus euismod. In pharetra odio diam, at aliquam tellus elementum bibendum. Curabitur at leo id erat facilisis tristique sit amet a orci. Curabitur molestie imperdiet enim, quis iaculis tortor dapibus varius. Mauris dignissim suscipit mi ut feugiat. Sed sem risus, tincidunt sed auctor quis, pulvinar sit amet augue. Aenean venenatis consectetur pulvinar. Suspendisse orci felis, rutrum sed faucibus sit amet, lobortis consectetur erat.\n\nAenean iaculis tortor a suscipit semper. Integer laoreet porta hendrerit. Ut pretium tempus rutrum. Nam dapibus justo ut erat ornare, ut semper ligula aliquet. Sed odio eros, auctor sit amet lectus efficitur, maximus ornare tortor. Quisque sed imperdiet mauris, in fermentum lacus. Donec at eros ex. Proin interdum vehicula augue, in luctus nibh tempor ut. Curabitur nulla sem, bibendum et condimentum eu, semper a metus. Curabitur cursus ultrices lectus in laoreet. In eu lacinia leo, quis feugiat ligula. Cras suscipit ligula et justo maximus, in lacinia arcu ornare. Nulla facilisi. Sed sed egestas dolor, porta pellentesque felis. Morbi non nisi risus. Vestibulum ultricies convallis elit.\n\nPhasellus sed nibh a ligula placerat volutpat. Mauris lobortis nibh sed velit lobortis malesuada. Sed aliquam varius ornare. Pellentesque posuere ornare quam, sit amet aliquam nisi dictum sed. Cras pulvinar metus a eros tristique, quis vulputate sapien ornare. Proin eleifend gravida tellus, id finibus justo tempor ac. Phasellus ac efficitur eros."
+	},
+    {
+      "image": 2,
+      "image_ratio": 1.7777,
+      "title": "이미지 테스트 2",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla leo nisi, finibus quis justo eu, consequat auctor ex. In lacinia blandit ornare. Praesent eu sodales ipsum. Donec aliquam nibh risus, in feugiat lacus mattis eu. Aliquam gravida est non erat congue, in mollis lacus aliquet. Nullam ac tellus nec felis molestie posuere. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eget tristique risus.\n\nSed rutrum leo et metus laoreet commodo. Integer convallis eget sem id bibendum. Suspendisse condimentum fringilla ipsum, at mattis massa posuere id. Mauris ultrices arcu nec ex placerat accumsan. Curabitur ut dolor id mi commodo posuere et a tellus. Aenean tellus leo, fermentum eu pulvinar eget, egestas ut lacus. Cras non nulla eu tellus volutpat mollis. Cras tempus metus nibh, eget vehicula nunc consequat vitae.\n\nDuis ullamcorper interdum ligula in aliquet. Curabitur consectetur nunc tristique semper bibendum. Nulla facilisi. Aliquam eu urna eros. Etiam a lobortis leo. Nunc sodales ex at arcu finibus rutrum. Nullam facilisis scelerisque scelerisque. Ut vel tellus nec nibh suscipit suscipit vitae id diam. Integer a pharetra augue. Fusce at augue ac felis porttitor viverra.\n\nMauris id tempor dolor, sit amet bibendum libero. Integer fringilla elit erat, a faucibus nulla placerat a. Praesent ut urna condimentum, fermentum justo eget, viverra est. Mauris sed mi semper, accumsan turpis sed, vestibulum nibh. Nullam posuere magna purus, a tincidunt purus suscipit at. Praesent vehicula sagittis odio in iaculis. Nullam fermentum eu sapien tempus euismod. In pharetra odio diam, at aliquam tellus elementum bibendum. Curabitur at leo id erat facilisis tristique sit amet a orci. Curabitur molestie imperdiet enim, quis iaculis tortor dapibus varius. "
+	},
+    {
+      "image": 3,
+      "image_ratio": 1,
+      "title": "이미지 테스트 3",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla leo nisi, finibus quis justo eu, consequat auctor ex. In lacinia blandit ornare. Praesent eu sodales ipsum. Donec aliquam nibh risus, in feugiat lacus mattis eu. Aliquam gravida est non erat congue, in mollis lacus aliquet. Nullam ac tellus nec felis molestie posuere. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eget tristique risus.\n\nSed rutrum leo et metus laoreet commodo. Integer convallis eget sem id bibendum. Suspendisse condimentum fringilla ipsum, at mattis massa posuere id. Mauris ultrices arcu nec ex placerat accumsan. Curabitur ut dolor id mi commodo posuere et a tellus. Aenean tellus leo, fermentum eu pulvinar eget, egestas ut lacus. Cras non nulla eu tellus volutpat mollis. Cras tempus metus nibh, eget vehicula nunc consequat vitae.\n\nDuis ullamcorper interdum ligula in aliquet. Curabitur consectetur nunc tristique semper bibendum. "
+	}
+  ],
+  "miniPostData": [
+    {
+      "title": "hi",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla leo nisi, finibus quis justo eu, consequat auctor ex. In lacinia blandit ornare. Praesent eu sodales ipsum. Donec aliquam nibh risus, in feugiat lacus mattis eu. Aliquam gravida est non erat congue, in mollis lacus aliquet. Nullam ac tellus nec felis molestie posuere. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eget tristique risus.\n\nSed rutrum leo et metus laoreet commodo. "
+	},
+    {
+      "title": "hi",
+      "content": "test"
+    },
+    {
+      "title": "hi",
+      "content": "test"
+    },
+    {
+      "title": "hi",
+      "content": "test"
+    },
+    {
+      "title": "hi",
+      "content": "test"
+    },
+    {
+      "title": "hi",
+      "content": "test"
+    },
+    {
+      "title": "hi",
+      "content": "test"
+    },
+    {
+      "title": "hi",
+      "content": "test"
+    },
+    {
+      "title": "hi",
+      "content": "test"
+    },
+    {
+      "title": "hi",
+      "content": "test"
+    },
+    {
+      "title": "hi",
+      "content": "test"
+    },
+    {
+      "title": "hi",
+      "content": "test"
+    },
+    {
+      "title": "hi",
+      "content": "test"
+    },
+    {
+      "title": "hi",
+      "content": "test"
+    },
+    {
+      "title": "hi",
+      "content": "test"
+    },
+    {
+      "title": "hi",
+      "content": "test"
+    },
+    {
+      "title": "hi",
+      "content": "test"
+    }
+  ]
+}
